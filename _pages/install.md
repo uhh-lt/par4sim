@@ -5,7 +5,7 @@ permalink: /install/
 icon: cog fa-spin
 ---
 
-``Par4Sim`` is based on the [Adaptive Paraphrasing for Semantic-aware Writing Aid Tools](https://uhh-lt.github.io/par4sem/about/)
+``Par4Sim`` is based on the [Adaptive Paraphrasing for Semantic-aware Writing Aid Tools](https://uhh-lt.github.io/par4sem/)
 
 For the general installation instruction, please refer [Par4Sem installation](https://uhh-lt.github.io/par4sem/install/)
 
