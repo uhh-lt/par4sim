@@ -1,7 +1,7 @@
 Par4Sim  -- Adaptive Paraphrasing for Text Simplification
 ====
 
-This is the documentation page for the Par4Sim paper for COLING 2018 Main conference
+This is the documentation page for the Par4Sim paper for [COLING 2018 Main conference](https://coling2018.org/)
 
 [Par4Sim Demo](https://ltmaggie.informatik.uni-hamburg.de/par4sim/)
 
