@@ -1,1 +1,19 @@
-theme: jekyll-theme-slate
+### your site title here
+
+title: Par4Sim
+
+#baseurl: /par4sim
+sass:
+    style: expanded
+
+#logo: "logo.jpg"
+
+# Tracker
+analytics: UA-101167596-2
+
+
+exclude:
+- README.md
+
+include:
+- _pages
